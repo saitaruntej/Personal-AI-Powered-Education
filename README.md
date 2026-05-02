@@ -169,10 +169,3 @@ npm run build
 npm start
 ```
 
-## License
-
-MIT
-
----
-
-Built with React, Express, and OpenAI GPT-4o.
